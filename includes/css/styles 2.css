@@ -1,0 +1,99 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+#my modal2  {
+	size: 200px 300px;
+}
+   
+#features {
+	text-align:center;
+	font-weight:800;
+	font-family: 'Alegreya SC', serif;
+	position: left;
+	
+
+}
+
+.panel-body {
+	text-align:center;padding:130px;
+font-weight:600;
+	font-family: 'Alegreya SC', serif;
+	color: black;
+	font-size:18px;
+	}
+
+#featuresHeading {
+	text-align:center; padding:75px; color:white;
+	
+}
+	
+/* --------------------------------------
+   Typograph;
+   -------------------------------------- */
+#main {
+font-weight:800;
+	font-family: 'Alegreya SC', serif;
+}
+
+h1 {
+	font-weight:800;
+	font-family: 'Alegreya SC', serif;
+}
+h2 {
+	font-weight:800;
+	font-family: 'Alegreya SC', serif;
+}
+h4 {
+	font-weight:800;
+	font-family: 'Alegreya SC', serif;
+}
+
+
+
+	
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+
+
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+
+}
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
